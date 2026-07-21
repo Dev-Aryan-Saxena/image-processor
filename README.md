@@ -1,5 +1,8 @@
 # Lumina CV: Spatial Enhancement & Geometrical Transformations
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://lumina-cv.streamlit.app/)
+&nbsp;&nbsp;**Live Demo:** [lumina-cv.streamlit.app](https://lumina-cv.streamlit.app/)
+
 Lumina CV is an interactive, real-time computer vision application built in Python using Streamlit, OpenCV, and Matplotlib. It allows users to upload custom images or use a default calibration pattern, adjust processing parameters through interactive sliders, and see side-by-side comparisons of the original and processed images along with dynamic RGB/grayscale histograms and execution speeds.
 
 ---
